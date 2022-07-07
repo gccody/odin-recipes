@@ -1,2 +1,3 @@
 # odin-recipes
-My First Odin Project
+My first odin project.
+I will be creating a recipie website
